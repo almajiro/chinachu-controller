@@ -6,7 +6,7 @@ import json
 
 from datetime import datetime
 
-server = "node02.data-hotel.intranet"
+server = ""
 port = 10772
 
 target = "http://" + server + ":" + str(port) + "/api/"
